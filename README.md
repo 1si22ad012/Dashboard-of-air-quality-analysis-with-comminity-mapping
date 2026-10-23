@@ -70,3 +70,4 @@ Display of the AQI for various pollutants like PM2.5, PM10, NO2, CO, SO2, O3, et
 
 **Vulnerable Areas:** 
 Helps to Identify  areas with high vulnerability, where air quality may have a larger health impact.
+![image alt](https://github.com/1si22ad012/Dashboard-of-air-quality-analysis-with-comminity-mapping/blob/2c2b3729a171d5866da6c28b4f9db25466d470aa/Screenshot%202026-10-02%20093641.png)
